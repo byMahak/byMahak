@@ -1,6 +1,6 @@
 ## 👋 About Me
 Hi there! <br>
-I am Mahak Sharma a Computer Science student focused on building intelligent web applications. I enjoy bridging the gap between complex AI models and user-friendly interfaces.
+I am Mahak Sharma a Computer Science student and aspiring Software Engineer focused on building intelligent web applications. I enjoy bridging the gap between complex AI models and user-friendly interfaces.
 
 ## 💻 Tech Stack:
 - **Languages :** <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="center"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" align="center">
